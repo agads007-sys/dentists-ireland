@@ -1,3 +1,9 @@
 # Ireland dental Google-review outreach exclusions
 # Append only successful Gmail draft recipients.
 # Format: email | Practice Name
+
+reception@portlaoisedental.com | Portlaoise Dental
+info@jessopstreetdentalpractice.ie | Dr Paul Conroy
+hello@deanstreetdental.ie | Dean Street Dental
+marketcrossdental@gmail.com | Market Cross Dental
+reception@ormondorthodontics.ie | Ormond Orthodontics
